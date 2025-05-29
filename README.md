@@ -48,4 +48,31 @@ This application allows authorized personnel such as **administrators** or **rec
 - **Backend:**   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />  ,  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
 - **Database:**   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
 
-## 📂 Folder Structure (example)
+
+## 📈 Future Improvements
+- Add email/SMS notifications for appointments
+- Integration with health insurance systems
+- Generate reports and analytics for admin
+- Mobile app support
+
+## 🧑‍💻 Author
+
+**Abhijeet Mohite**  
+<br>
+<a href="https://www.linkedin.com/in/abhijeet-mohite-28ba34256" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <br>
+  <a href="https://www.instagram.com/_abhiiiiiii_45_" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  <br>
+  <a href="mailto:mohiteabhijeet180@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-339933?style=for-the-badge&logo=email&logoColor=white" />
+  </a>
+
+---
+
+> ✅ This project is created by me as part of my software engineering learning and practical implementation.
+
+
